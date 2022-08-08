@@ -1,4 +1,4 @@
-package No1003;
+package No1003_x;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package No1004;
+package No1004_x;
 
 import java.util.Scanner;
 
@@ -20,8 +20,6 @@ public class Main {
 				int cx = scanner.nextInt();
 				int cy = scanner.nextInt();
 				int r = scanner.nextInt();
-				
-				
 			}
 		}
 	}
